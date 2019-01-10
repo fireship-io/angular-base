@@ -14,4 +14,4 @@ ng s
 ```
 
 
-Add your credentials to the Angular environment files, then replace `configPlaceholder` with `environment.firebase` in the _app.module.ts_
+Open `src/app/app.module.ts` and replace the `configPlaceholder` with your Firebase credentials 
